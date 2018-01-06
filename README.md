@@ -3,7 +3,9 @@
 以前 blog 折腾了不少，然而往往都是花在折腾 blog 上。WordPress 自己架,不一而足。索性这次就选个不折腾的。于是就有了这个用 issues 来写的 blog。
 
 # 关于我
-一个喜欢写点代码自娱自乐的野生码农，一个 Rubyer。
+一个喜欢写点代码自娱自乐的野生码农, indie game developer。
+
+![codewars](https://www.codewars.com/users/shitake/badges/large)
 
 # 我做过什么
 [Svent](http://github.com/molingyu/sventjs)
