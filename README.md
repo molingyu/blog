@@ -5,7 +5,7 @@
 # 关于我
 一个喜欢写点代码自娱自乐的野生码农, indie game developer。
 
-![codewars](https://www.codewars.com/users/shitake/badges/large)
+[![codewars](https://www.codewars.com/users/shitake/badges/large)](https://www.codewars.com/users/shitake/)
 
 # 我做过什么
 [Svent](http://github.com/molingyu/sventjs)
