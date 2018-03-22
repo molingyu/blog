@@ -7,6 +7,16 @@
 
 [![codewars](https://www.codewars.com/users/shitake/badges/large)](https://www.codewars.com/users/shitake/)
 
+**My Steam Profile** *(from [SteamDB](https://steamdb.info/calculator/76561198186985262/?cc=cn))*
+
+* **Worth:** ¥ 4953 (¥ 1700 with sales)
+
+* **Games owned:** 141
+
+* **Games played:** 114 *(80%)*
+
+* **Hours on record:** 794.2h
+
 # 我做过什么
 [Svent](http://github.com/molingyu/sventjs) Svent is an async event framework implemented with Fiber.
 
