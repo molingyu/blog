@@ -49,7 +49,7 @@
 
 **非技术向工作**:
 
-+ 2018/10 [wh40kIcon](https://github.com/Warhammer40kGroup/wh40k-icon) - 战锤 400000 势力图标项目。收录了另外一位作者的帝国和混沌部分的图标。而我自己完成了两个外星人种族的图标和部分公共图标。项目提供 svg 文件和 webfont。
++ 2018/10 [wh40kIcon](https://github.com/Warhammer40kGroup/wh40k-icon) - 战锤 40000 势力图标项目。收录了另外一位作者的帝国和混沌部分的图标。而我自己完成了两个外星人种族的图标和部分公共图标。项目提供 svg 文件和 webfont。
 
 ## 职业技能
 
